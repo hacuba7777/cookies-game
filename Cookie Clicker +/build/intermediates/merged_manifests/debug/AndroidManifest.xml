@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gd.rf.konggdev.cookieclicker"
+    android:versionCode="1"
+    android:versionName="1.4" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="期末小遊戲"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.CookieClicker" >
+        <activity
+            android:name="com.example.cookieclicker.MainActivity2"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name="com.example.cookieclicker.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.cookieclicker.UpgradesActivity" />
+        <activity android:name="com.example.cookieclicker.GadgetsActivity" />
+        <activity android:name="com.example.cookieclicker.SettingsActivity" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

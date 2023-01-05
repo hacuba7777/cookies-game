@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b63a09db9af459ca94dad6ce83321053\jetified-room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\5b6d3e953e83c0f55880e431442d87ef\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\1e35180f46140cb6767ab7b7fd708bff\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\31ac098d93a2a0ddf2e84d89031f5da7\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2ce7175a607f1aae5fbba536e8c002c1\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\3e7af1fadef22fee3d99ff0c19a7e7f2\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\adf1e0fd47ac2ddab98b859b2446683a\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\54cdc0d6bd5e5c6bc950affd4959f483\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\ff109ff37bd5fe483f187b037275bc82\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\6f7deeb5ec7d59c55d5c21713f31bb70\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\d49a9759f41c587988a825e8dc7a27ed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\59a8e6ae22528e95e5da8456899e73f8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d557e6b5bfccacae04657a900296d61\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\052bd579326855443da117db8c9c787b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\35b2c2cd84d9d79a1ee63c03edac5b38\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\288922186ad925326700cc146c03468b\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\4d0811d61a4debb87007e956aaa397e3\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\26f962049858705d4260213e3a2a9bfc\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0e4159b14ef289064109c1331e65df55\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\7a809eef369d13c83d5b9b863ba77aae\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c0ff7ff5f75527da873d5706547ce78c\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\76471f586d566bf3ffe762c4dad2b743\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\49f76c92c0c102db5507391e9c84cc0f\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\44705e494f9e3dbe535ed64a1a332fed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\88fb11f1e8d5b7482be4eae62d36662e\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\fd41a667a067a85718256afa2871308c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\23f41ed945a5095d5a101feac3f06268\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b7b1f6519bc009335b55b56a137a0fe7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b0dd6791cae7cf7d12abc2795c0845bd\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\933edadb385250eba0b93836f8f12456\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b246f2825bfe9fb93a58c2e8567e6f0d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\de534ec502b5897f37cd0656f012af8b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\e6490a18e4a2dc7e3fbd07a714040231\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d294c07469c4efcc0369d2b54ab547c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2c0e139366c26ad50a15508f7085a3d4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c453ae57944e0c881698300b976bdf91\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2d5bd593b577b4388261994fb6e33e67\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\8689f2da0688900b5c61388180c1c3cd\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\84c98cb070dd75a88e229c1f9ebb7b22\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\1e35180f46140cb6767ab7b7fd708bff\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\1e35180f46140cb6767ab7b7fd708bff\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\31ac098d93a2a0ddf2e84d89031f5da7\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\31ac098d93a2a0ddf2e84d89031f5da7\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\3e7af1fadef22fee3d99ff0c19a7e7f2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\3e7af1fadef22fee3d99ff0c19a7e7f2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\933edadb385250eba0b93836f8f12456\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\933edadb385250eba0b93836f8f12456\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\de534ec502b5897f37cd0656f012af8b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\de534ec502b5897f37cd0656f012af8b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:8:9-30
+	android:roundIcon
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:11:9-51
+activity#com.example.cookieclicker.MainActivity2
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:12:9-18:20
+	android:exported
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:13:13-42
+meta-data#android.app.lib_name
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:15:13-17:36
+	android:value
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:17:17-33
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:16:17-52
+activity#com.example.cookieclicker.MainActivity
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.cookieclicker.UpgradesActivity
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:26:9-63
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:26:19-51
+activity#com.example.cookieclicker.GadgetsActivity
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:27:9-62
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:27:19-50
+activity#com.example.cookieclicker.SettingsActivity
+ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b63a09db9af459ca94dad6ce83321053\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b63a09db9af459ca94dad6ce83321053\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\5b6d3e953e83c0f55880e431442d87ef\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\5b6d3e953e83c0f55880e431442d87ef\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\1e35180f46140cb6767ab7b7fd708bff\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\1e35180f46140cb6767ab7b7fd708bff\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\31ac098d93a2a0ddf2e84d89031f5da7\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\31ac098d93a2a0ddf2e84d89031f5da7\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2ce7175a607f1aae5fbba536e8c002c1\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2ce7175a607f1aae5fbba536e8c002c1\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\3e7af1fadef22fee3d99ff0c19a7e7f2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\3e7af1fadef22fee3d99ff0c19a7e7f2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\adf1e0fd47ac2ddab98b859b2446683a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\adf1e0fd47ac2ddab98b859b2446683a\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\54cdc0d6bd5e5c6bc950affd4959f483\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\54cdc0d6bd5e5c6bc950affd4959f483\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\ff109ff37bd5fe483f187b037275bc82\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\ff109ff37bd5fe483f187b037275bc82\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\6f7deeb5ec7d59c55d5c21713f31bb70\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\6f7deeb5ec7d59c55d5c21713f31bb70\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\d49a9759f41c587988a825e8dc7a27ed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\d49a9759f41c587988a825e8dc7a27ed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\59a8e6ae22528e95e5da8456899e73f8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\59a8e6ae22528e95e5da8456899e73f8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d557e6b5bfccacae04657a900296d61\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d557e6b5bfccacae04657a900296d61\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\052bd579326855443da117db8c9c787b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\052bd579326855443da117db8c9c787b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\35b2c2cd84d9d79a1ee63c03edac5b38\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\35b2c2cd84d9d79a1ee63c03edac5b38\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\288922186ad925326700cc146c03468b\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\288922186ad925326700cc146c03468b\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\4d0811d61a4debb87007e956aaa397e3\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\4d0811d61a4debb87007e956aaa397e3\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\26f962049858705d4260213e3a2a9bfc\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\26f962049858705d4260213e3a2a9bfc\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0e4159b14ef289064109c1331e65df55\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0e4159b14ef289064109c1331e65df55\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\7a809eef369d13c83d5b9b863ba77aae\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\7a809eef369d13c83d5b9b863ba77aae\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c0ff7ff5f75527da873d5706547ce78c\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c0ff7ff5f75527da873d5706547ce78c\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\76471f586d566bf3ffe762c4dad2b743\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\76471f586d566bf3ffe762c4dad2b743\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\49f76c92c0c102db5507391e9c84cc0f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\49f76c92c0c102db5507391e9c84cc0f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\44705e494f9e3dbe535ed64a1a332fed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\44705e494f9e3dbe535ed64a1a332fed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\88fb11f1e8d5b7482be4eae62d36662e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\88fb11f1e8d5b7482be4eae62d36662e\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\fd41a667a067a85718256afa2871308c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\fd41a667a067a85718256afa2871308c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\23f41ed945a5095d5a101feac3f06268\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\23f41ed945a5095d5a101feac3f06268\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b7b1f6519bc009335b55b56a137a0fe7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b7b1f6519bc009335b55b56a137a0fe7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b0dd6791cae7cf7d12abc2795c0845bd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b0dd6791cae7cf7d12abc2795c0845bd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\933edadb385250eba0b93836f8f12456\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\933edadb385250eba0b93836f8f12456\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b246f2825bfe9fb93a58c2e8567e6f0d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b246f2825bfe9fb93a58c2e8567e6f0d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\de534ec502b5897f37cd0656f012af8b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\de534ec502b5897f37cd0656f012af8b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\e6490a18e4a2dc7e3fbd07a714040231\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\e6490a18e4a2dc7e3fbd07a714040231\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d294c07469c4efcc0369d2b54ab547c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\0d294c07469c4efcc0369d2b54ab547c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2c0e139366c26ad50a15508f7085a3d4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2c0e139366c26ad50a15508f7085a3d4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c453ae57944e0c881698300b976bdf91\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\c453ae57944e0c881698300b976bdf91\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2d5bd593b577b4388261994fb6e33e67\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\2d5bd593b577b4388261994fb6e33e67\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\8689f2da0688900b5c61388180c1c3cd\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\8689f2da0688900b5c61388180c1c3cd\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\84c98cb070dd75a88e229c1f9ebb7b22\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\84c98cb070dd75a88e229c1f9ebb7b22\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\kakeru\.gradle\caches\transforms-2\files-2.1\b3ba5aa7c5f9d9e1c9c390402cab399f\room-runtime-2.3.0\AndroidManifest.xml:26:13-74

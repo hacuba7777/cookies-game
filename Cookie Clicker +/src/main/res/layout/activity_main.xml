@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#151414"
+    android:backgroundTint="#151414"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/cookieButton"
+        android:layout_width="440dp"
+        android:layout_height="361dp"
+        android:background="@drawable/rounded_corners"
+        android:backgroundTint="#151414"
+        android:scaleType="fitCenter"
+        android:src="@drawable/cookie"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/cookieTextArea"
+        android:layout_width="389dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="12dp"
+        android:text="🍪Cookies : 0"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/cookieButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/fireworks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="275dp"
+        tools:layout_editor_absoluteY="118dp"
+        />
+
+    <ImageView
+        android:id="@+id/power_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="275dp"
+        tools:layout_editor_absoluteY="118dp"
+        />
+
+    <Button
+        android:id="@+id/btn_show_popup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show popup"
+        android:backgroundTint="#EE6E1E05"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.039"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.997" />
+
+    <Button
+        android:id="@+id/upgradeButton"
+        android:layout_width="100dp"
+        android:layout_height="81dp"
+        android:layout_marginEnd="136dp"
+        android:backgroundTint="#EE6E1E05"
+        android:text="🛒升級"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/cookieButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.211" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="100dp"
+        android:layout_height="81dp"
+        android:layout_marginEnd="4dp"
+        android:backgroundTint="#EE2E2C2B"
+        android:text="📱設定"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/cookieButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/upgradeButton"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.211" />
+
+    <Button
+        android:id="@+id/leave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="離開"
+        app:layout_constraintBottom_toBottomOf="@+id/auto_click"
+        app:layout_constraintEnd_toStartOf="@+id/auto_click"
+        android:backgroundTint="#EE6E1E05"
+        app:layout_constraintTop_toBottomOf="@+id/cookieButton"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+    <Button
+        android:id="@+id/auto_click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:text="自動點擊"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:backgroundTint="#EE6E1E05"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cookieButton"
+        app:layout_constraintVertical_bias="0.982" />
+
+    <Button
+        android:id="@+id/rank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="56dp"
+        android:text="排行榜"
+        android:backgroundTint="#EE6E1E05"
+        app:layout_constraintBottom_toTopOf="@+id/cookieTextArea"
+        app:layout_constraintEnd_toStartOf="@+id/upgradeButton"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

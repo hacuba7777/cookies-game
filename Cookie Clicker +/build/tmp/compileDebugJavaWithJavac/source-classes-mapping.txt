@@ -1,0 +1,2 @@
+com/example/cookieclicker/BuildConfig.java
+ com.example.cookieclicker.BuildConfig
