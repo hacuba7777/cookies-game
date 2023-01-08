@@ -1,7 +1,10 @@
-#Thu Jan 05 22:48:28 CST 2023
+#Fri Jan 06 01:52:07 CST 2023
+base.2=C\:\\Users\\kakeru\\Downloads\\check\\cookie_click-mainer\\OpenCookieClicker-master\\Cookie Clicker +\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+path.2=classes2.dex
 base.1=C\:\\Users\\kakeru\\Downloads\\check\\cookie_click-mainer\\OpenCookieClicker-master\\Cookie Clicker +\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\kakeru\\Downloads\\check\\cookie_click-mainer\\OpenCookieClicker-master\\Cookie Clicker +\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
