@@ -1,0 +1,6 @@
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\UpgradesActivity.kt
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\MyDBHelper.kt
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\SettingsActivity.kt
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\MainActivity.kt
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\MainActivity2.kt
+C:\Users\kakeru\Downloads\check\cookie_click-mainer\OpenCookieClicker-master\Cookie Clicker +\src\main\java\com\example\cookieclicker\CookieData.kt
