@@ -15,7 +15,6 @@ import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 import com.bumptech.glide.Glide
-import com.google.firebase.inappmessaging.FirebaseInAppMessaging
 import java.awt.font.TextAttribute.BACKGROUND
 import java.lang.Thread
 import kotlin.reflect.typeOf
@@ -28,8 +27,6 @@ class MainActivity : AppCompatActivity() {
     var enableGadgets = true
     val secondInMillis = 1000L
     var gTimeout = 0
-    val fiamUI = FirebaseInAppMessaging.getInstance()
-
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
