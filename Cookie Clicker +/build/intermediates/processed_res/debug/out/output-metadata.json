@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.example.cookieclicker",
+  "applicationId": "gd.rf.konggdev.cookieclicker",
   "variantName": "processDebugResources",
   "elements": [
     {

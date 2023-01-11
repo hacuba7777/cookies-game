@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.cookieclicker",
+  "applicationId": "gd.rf.konggdev.cookieclicker",
   "variantName": "debug",
   "elements": [
     {
